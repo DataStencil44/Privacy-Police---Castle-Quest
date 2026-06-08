@@ -1,7 +1,5 @@
 # Privacy-Police---Castle-Quest
 
-# Privacy Policy — Castle Quest
-
 **Effective date:** June 8, 2026
 
 Castle Quest ("the extension") is a browser game in which you collect treasure
@@ -68,4 +66,4 @@ location with a new effective date.
 
 ## Contact
 
-Questions about this policy can be sent to: **knyshbohdan44@gmail.com**
+Questions about this policy can be sent to: **datasten77@gmail.com**
